@@ -6,7 +6,7 @@ int Menu()
 {
     int i=-1;
 
-    cout << "\n::::::::::::::::::::::::::::::::: Welcome To Bhopal Metro ::::::::::::::::::::::::::::::::::::\n";
+    cout << "\n::::::::::::::::::::::::::::::::: Welcome To Metro Project ::::::::::::::::::::::::::::::::::::\n";
     cout << "\n.............................................................................................\n";
 
     cout << " Enter Your Choice :: \n\t1. to know all possible station path from your current station. \n\t2. to know all possible path form your current station to your Destination Station.\n\t3. to know our station list\n\t4. to exit ";
